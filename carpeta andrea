@@ -1,0 +1,6 @@
+{
+  "name": "Andrea Thodde - Asesora de Seguros IUL",
+  "description": "Premium landing page for financial advisor Andrea Thodde, specializing in Indexed Universal Life (IUL) insurance, including booking system, FAQ accordion, contact forms, and interactive visual charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
